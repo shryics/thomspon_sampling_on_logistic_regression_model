@@ -1,0 +1,17 @@
+behavior,mental_fatigue,physical_fatigue,discomfort_index
+sleep, -0.2, -0.15, 0.01
+wake_up, -0.2, -0.15, 0.01
+go_to_bed, -0.15, -0.15, 0.01
+leave_home, 0.01, 0.08, 0.01
+go_home, 0.01, 0.08, 0.01
+cook, 0, 0.01, 0.01
+eat, -0.01, 0, 0.01
+wash, -0.05, 0.02, -0.30
+change_clothes, -0.01, 0.01, 0.01
+bath, -0.1, -0.10, 0.01
+net_surf, -0.01, 0, 0.01
+watch_TV, -0.01, 0, 0.01
+study, 0.05, 0, 0.01
+clean_room, -0.05, 0.03, -0.60
+unoccupied, 0.01, 0.08, 0.01
+nothing, -0.01, -0.02, 0.01
